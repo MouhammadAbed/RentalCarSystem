@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\CarRentalBusinessLayer\bin\Debug\CarRentalBusinessLayer.dll
+C:\Users\user\source\repos\CarRentalBusinessLayer\bin\Debug\CarRentalBusinessLayer.pdb
+C:\Users\user\source\repos\CarRentalBusinessLayer\bin\Debug\CarRentDataAccess.dll
+C:\Users\user\source\repos\CarRentalBusinessLayer\bin\Debug\CarRentDataAccess.pdb
+C:\Users\user\source\repos\CarRentalBusinessLayer\obj\Debug\CarRentalBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CarRentalBusinessLayer\obj\Debug\CarRentalBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CarRentalBusinessLayer\obj\Debug\CarRentalBusinessLayer.csproj.CopyComplete
+C:\Users\user\source\repos\CarRentalBusinessLayer\obj\Debug\CarRentalBusinessLayer.dll
+C:\Users\user\source\repos\CarRentalBusinessLayer\obj\Debug\CarRentalBusinessLayer.pdb
